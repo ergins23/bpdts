@@ -4,4 +4,5 @@ var express = require('express'),
 
 app.listen(port);
 
+// Write something out
 console.log('todo list RESTful API sever stareted on: ' + port);
